@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Scooter (Vaparetia)</h1>
-<h3 align="center">I am a passionate FOSS advocate. I like Linux, bass guitars, open source software, memes, music. This Github page is just to track things I like and to store my private automation scripts for work and personal stuff.</h3>
+<h3 align="center">I am a passionate FOSS advocate. I like Linux, bass guitars, open source software, memes, music. This Github page is just to track things I like and to store my private automation scripts for work and personal stuff. I also publically publish some stuff that I use for work and personal use if I think it can be helpful!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaparetia&label=Profile%20views&color=0e75b6&style=flat" alt="vaparetia" /> </p>
 
