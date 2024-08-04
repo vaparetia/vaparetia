@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python and C**
 
-- 💬 Come talk to me about **Bass guitars, music, Linux, cool projects you're into** over at https://linuxrocks.online/@scooter
+- 💬 Come talk to me about **Bass guitars, music, Linux, cool projects you're into**
 
 - 🛠️ **Linux Administrator**
 
